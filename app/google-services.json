@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758978894857",
+    "project_id": "siagacovid19-67b56",
+    "storage_bucket": "siagacovid19-67b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758978894857:android:4a36496ae858de1aee6cd8",
+        "android_client_info": {
+          "package_name": "com.example.siagacovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758978894857-2lthffisnjg0qkgc3vk255knn1tokjlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBzJUncXkRDb1N4bcEKLA-dHhOa5M7Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758978894857-2lthffisnjg0qkgc3vk255knn1tokjlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
